@@ -1,0 +1,46 @@
+.table{
+    margin: 0;
+    height: 98vh;
+    width: 100%;
+}
+.rosio{
+    background-color: #D26EDB ;
+}
+#logo{
+    background-image: url(Screenshot_1.png)  ;
+}
+.brnctxt{
+    border: #D26EDB;
+    text-align: center;
+    font-family: "Iceberg", sans-serif;
+    font-size: x-large;
+    cursor: pointer;
+    user-select: text;
+    background-color: #D26EDB;
+}
+.brnctxt:hover{
+    text-decoration:underline;
+}
+.brnctxt2{
+    text-align: center;
+    font-family: "Iceberg", sans-serif;
+    font-size: large;
+    color: #D26EDB;
+}
+.brnctxt3{
+    text-align: center;
+    font-family: "Iceberg", sans-serif;
+    font-size: large;
+    color:antiquewhite;
+}
+.preto{
+    background-color: #000000;
+}
+
+td{
+    height: 8%;
+    width: 5.5%;
+}
+.body{
+    margin: 0px;
+}
